@@ -1,0 +1,2 @@
+import pywhatkit
+pywhatkit.sendwhatmsg('0000000000', 'message', 17, 10 )
